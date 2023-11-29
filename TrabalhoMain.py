@@ -1,6 +1,8 @@
 import TrabalhoFuncoes as funcoes
 
 jogo_iniciado = 0
+nome_salvo = ""
+tentativa_salva = 0
 funcoes.boas_vindas()
 while (True):
     funcoes.menu()
